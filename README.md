@@ -1,6 +1,9 @@
 # C-Library
+
 This is some fundamental data structure implemented in C language in header files.
+
 I'm learning fundamental data structure(FDS), and these are my learning contents.
+
 If you are also studying this currently, I hope this repository can provide you with some help.
 
 All header files can be directly included and put into practical use.
